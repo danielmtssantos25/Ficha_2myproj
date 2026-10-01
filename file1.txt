@@ -1,1 +1,2 @@
-Fiz uma alteração neste ficheiro file1
+
+atividade da ficha3_gitproj
